@@ -8,3 +8,7 @@ In code some module should be imported.
 
 #### for setup the SMTP server for notification purpose:
 * `pip install smtplib`
+
+### LICENSE
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
