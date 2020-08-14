@@ -3,8 +3,8 @@ An IOT based system by which patient fall can be detected and send the notificat
 
 In code some module should be imported.
 #### Windows and Linux:
-`sudo apt-get install pip`,
-`pip install socket` as its already in standard python-lib
+* `sudo apt-get install pip`,<br/>
+* `pip install socket` as its already in standard python-lib
 
-###### for setup the SMTP server for notification purpose:
-`pip install smtplib`
+#### for setup the SMTP server for notification purpose:
+* `pip install smtplib`
